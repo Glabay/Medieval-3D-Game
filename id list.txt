@@ -1,0 +1,82 @@
+Game Developer Notes
+ID List, animations included at bottom of file.
+
+YOU WILL BE USING THE INFORMATION IN THIS FILE TO BUILD CONTENT.. ANIMATIONS, ENTITY IDS, ETC.
+
+** npc id list **
+0) warrior
+1) archer
+2) wizard
+3) dragon
+4) ape
+5) zombie
+6) goblin
+7) skeleton
+8) protector
+
+** prop id list **
+0) tree 1
+1) tree 2
+2) lair 
+3) chest
+4) portal
+5) crate
+6) npc house (shed)
+7) satchel
+8) shop
+9) castle
+10) stool
+11) table
+12) tree 3
+13) tree 4
+14) village divider
+15) firepit
+16) house
+17) loot pile
+18) boulder
+19) tree 5 (dead tree)
+20) tree 6 (pine tree)
+21) bed
+22) log
+23) grave 1
+24) grave 2
+25) goblin house
+26) npc house
+27) 4houses object
+
+** animation list **
+Archetype Characters:
+1: Death1
+2: Death2
+3: Idle
+4: Walk
+5: Run
+6: Attack
+7: kick
+
+Dragons:
+1: Idle
+2: Attack1
+3: Attack2
+4: Attack3
+5: Death
+6: Walk
+7: Fly
+
+Male & Female Humans:
+1: Stand
+2: Walk
+3: Throw
+4: Been hit
+5: Death
+6: Spell
+7: Pick from floor
+8: Eat something
+9: Floating
+
+Goblin / Skeleton / Samurai (free models from the internet, I do not know the license for these)
+NOTE: these are not fully tested
+1: stand
+2: walk
+3: attack
+4: die
